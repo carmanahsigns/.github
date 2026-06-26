@@ -8,6 +8,12 @@
 
 - [https://carmanah.atlassian.net/browse/PROD-XXX](https://carmanah.atlassian.net/browse/PROD-XXX)
 
+## Screenshots
+
+<!-- Before/after for UI changes. Delete this section if not applicable. -->
+
+- N/A
+
 ## Documentation
 
 <!-- Docs added or updated (links), or N/A. -->
@@ -22,7 +28,7 @@
 
 ## Test Steps
 
-<!-- How you verified — commands, steps, screenshots. -->
+<!-- How you verified — commands, steps, results. -->
 
 - N/A
 
