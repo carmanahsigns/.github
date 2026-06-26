@@ -1,8 +1,16 @@
-<!-- PR size: soft target ~1000 "Code" lines. Over it? Split by concern, or justify in the Summary. See team-standards/pr-standards.md. -->
+<!-- Keep PRs reviewable. ~1000 "Code" lines is a suggestion, not a limit — Green can run larger, Yellow/Red stay tight. Split by concern when in doubt. -->
 
 ## Summary
 
 <!-- What this PR does and why. Use bullets if it covers multiple features/fixes. -->
+
+## Risk Level
+
+<!-- Tier by blast radius if wrong (also reversibility, test coverage, tribal knowledge). Pick one — details in team-standards/pr-standards.md. -->
+
+- [ ] 🟢 Green — low-impact, reversible, easily verified. AI can drive.
+- [ ] 🟡 Yellow — real consequences or subtle failures. Spec-first; full human review.
+- [ ] 🔴 Red — a defect is a trust/compliance event (e.g. wrong jackpot). Human-authored + reviewed.
 
 ## Jira
 
